@@ -4,8 +4,8 @@ const Card = () => {
   return (
     <div>
         <div>
-          <div className="card m-3 " style={{ "width": "20rem", "maxHeight": "600px" }}>
-            <img src="https://source.unsplash.com/random/300×300/?mango,juice" className="card-img-top" alt="..." />
+          <div className="card m-3 " style={{ "width": "18rem"}}>
+            <img src="https://source.unsplash.com/random/300×300/?milkshake" className="card-img-top" alt="..." />
             <div className="card-body">
               <h5 className="card-title">Card title</h5>
               <p className="card-text">Some quick example</p>

@@ -10,7 +10,12 @@ const Home = () => {
       <div>
         <Navbar/>
         <Carousal/>
-        <Card/>
+        <div>
+          <Card/>
+          <Card/>
+          <Card/>
+          <Card/>
+        </div>
         <Footer />
       </div>
     </>
